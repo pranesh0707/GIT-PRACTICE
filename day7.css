@@ -1,0 +1,42 @@
+
+
+.sample {
+    background-color: #323f4b;
+    height: 50px;
+}
+
+.image {
+    background-image: url('https://ik.imagekit.io/pranesh/REVAMP%20TRAINING/chatbg.webp');
+    background-size: cover;  /* Make sure the image covers the area */
+    background-position: center;  /* Align the image to the center */
+    height: 800px;
+    width: 500px;  /* Adjust this value as per your design */
+}
+
+.box1{
+    background-color: #47a3f3;
+    width: 300px;
+    text-align: right;
+    margin-top: 25px;
+    padding: 7px 7px 7px 7px  ;
+    border: #47a3f3;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+
+
+}
+
+.box2{
+    background-color: #52606d;
+    width: 300px;
+    text-align: left;
+    margin-top: 25px;
+    padding: 7px 7px 7px 7px  ;
+    border: #47a3f3;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+    
+}
